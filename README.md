@@ -6,3 +6,4 @@ Estou estudando no Alura
 
 ![](https://media.tenor.com/HBkdKQo8Fh8AAAAM/sad-alone.gif)
 
+![](https://myoctocat.com/build-your-octocat/)
